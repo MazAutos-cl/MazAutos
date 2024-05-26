@@ -1,0 +1,93 @@
+[
+    {
+        "id": "BANCO DE CHILE",
+        "bank": "Banco de Chile",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10444999"
+    },
+    {
+        "id": "BANCO BCI",
+        "bank": "Banco BCI",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10444998"
+    },
+    {
+        "id": "SCOTIABANK CHILE",
+        "bank": "Scotiabank Chile",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10444100"
+    },
+    {
+        "id": "BANCO BICE",
+        "bank": "Banco BICE",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10444101"
+    },
+    {
+        "id": "HSBC BANK",
+        "bank": "HSBC Banck",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10443502"
+    },
+    {
+        "id": "SANTANDER-CHILE",
+        "bank": "Santander de Chile",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10443053"
+    },
+    {
+        "id": "ITAÚ CORPBANCA",
+        "bank": "Itaú Corpbanca",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10442604"
+    },
+    {
+        "id": "BANCO SECURITY",
+        "bank": "Banco Security",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10442155"
+    },
+    {
+        "id": "BANCO FALABELLA",
+        "bank": "Banco Falabella",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10441706"
+    },
+    {
+        "id": "BANCO RIPLEY",
+        "bank": "Banco Ripley",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10441257"
+    },
+    {
+        "id": "BANCO CONSORCIO",
+        "bank": "Banco Consorcio",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10440808"
+    },
+    {
+        "id": "SCOTIABANK AZUL",
+        "bank": "Scotiabank Azul",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10440359"
+    },
+    {
+        "id": "BANCO BTG PACTUAL CHILE",
+        "bank": "BTG Pactual",
+        "name": "MazAutos Chile SPA",
+        "rut": "77.777.777-K",
+        "account": "10439910"
+    }
+]

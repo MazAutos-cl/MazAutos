@@ -1,0 +1,16 @@
+#root {
+  width: 100vw;
+  margin: 0;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.main-content {
+  margin-top: 90vh;
+}
