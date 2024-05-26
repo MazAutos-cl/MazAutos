@@ -31,7 +31,7 @@ function App() {
         ></Route>
         <Route path="/payment/:id" element={<Payment />}></Route>
         <Route path="/editor/:id" element={<PoolEditor />}></Route>
-        <Route path="/bookings" element={<Bookings />} />
+        <Route path="/bookings" element={isActive ? <Bookings /> : <LogIn />} />
         <Route path="/success" element={<PaymentSuccess />} />
         <Route path="/login" element={<LogIn />} />
         <Route path="/signup" element={<SignUp />} />
