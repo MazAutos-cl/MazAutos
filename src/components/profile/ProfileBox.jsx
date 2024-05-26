@@ -33,8 +33,6 @@ const ProfileBox = () => {
       .then((response) => {
         if (response.status === 200) {
           setUserData(response.data.data);
-          console.log(response.data);
-          console.table(userData);
         } else {
           throw new Error("Usuario no encontrado. Regístrate hoy.");
         }
