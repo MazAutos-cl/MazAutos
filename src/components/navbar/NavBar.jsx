@@ -112,9 +112,11 @@ function NavBar() {
               <Button sx={{ my: 2, color: "primary", display: "block" }}>
                 <NavLink to="/pools">Ofertas</NavLink>
               </Button>
-              <Button sx={{ my: 2, color: "primary", display: "block" }}>
-                <NavLink to="/bookings">Reservas</NavLink>
-              </Button>
+              {isActive ? (
+                <Button sx={{ my: 2, color: "primary", display: "block" }}>
+                  <NavLink to="/bookings">Reservas</NavLink>
+                </Button>
+              ) : null}
               {isActive ? (
                 <Button sx={{ my: 2, color: "primary", display: "block" }}>
                   <NavLink
@@ -233,9 +235,11 @@ function NavBar() {
                       </NavLink>
                     </MenuItem>
                     <MenuItem>
-                      <NavLink to="/bookings">
-                        <Typography textAlign="center">Reservas</Typography>
-                      </NavLink>
+                      {isActive ? (
+                        <NavLink to="/bookings">
+                          <Typography textAlign="center">Reservas</Typography>
+                        </NavLink>
+                      ) : null}
                     </MenuItem>
                     {isActive ? (
                       <MenuItem>
