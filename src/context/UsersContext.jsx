@@ -55,10 +55,6 @@ const ContextProvider = ({ children }) => {
       }
     );
 
-    console.log("Método:", method); // Log para verificar el método
-    console.log("URL:", endPoints); // Log para verificar la URL
-    console.log("Datos:", data); // Log para verificar los datos enviados
-
     return axiosInstance[method](endPoints, data);
   };
 
